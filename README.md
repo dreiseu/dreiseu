@@ -36,7 +36,7 @@ I also enjoy solving DevOps challenges, building scalable IoT platforms, and exp
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/andrei-limuel-gelvoleo-ece-ect/])
+- 🌐 [LinkedIn](https://www.linkedin.com/in/andrei-limuel-gelvoleo-ece-ect/)
 - ✉️ Reach me for collabs or project ideas
 
 > “Keep shipping. Build boldly. Learn in public.”
